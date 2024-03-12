@@ -1,0 +1,194 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.footer{
+    width: 100%;
+    height: 90vh;
+    background-color: black;
+}
+.anv{
+    color: white;
+    position: absolute;
+    margin-left: 11%;
+    margin-top: -4%;
+    font-size: larger;
+    font-family: math;
+}
+.logo{
+    margin-left: -86%;
+    margin-top: 3%;
+
+}
+.para{
+    color: white;
+    position: absolute;
+    margin-left: 3%;
+    margin-top: 1%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+}
+.quick{
+    color: white;
+    position: absolute;
+    margin-left: 34%;
+    margin-top: -4%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+
+}
+.home{
+    color: white;
+    position: absolute;
+    margin-left: 32%;
+    margin-top: 0%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+    cursor: pointer;
+}
+.ab{
+    color: white;
+    position: absolute;
+    margin-left: 33.5%;
+    margin-top: 4%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+    cursor: pointer;
+}
+.pr{
+    color: white;
+    position: absolute;
+    margin-left: 33.5%;
+    margin-top: 8%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+    cursor: pointer;  
+}
+.en{
+    color: white;
+    position: absolute;
+    margin-left: 33.5%;
+    margin-top: 12%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+    cursor: pointer;
+}
+.co{
+    color: white;
+    position: absolute;
+    margin-left: 33.5%;
+    margin-top: 16%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+    cursor: pointer;
+}
+.in{
+    color: white;
+    position: absolute;
+    margin-left: 36.3%;
+    margin-top: 20%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+    cursor: pointer;
+}
+.co:hover{
+    color: #218922;
+    
+}
+.ab :hover{
+    color: #218922;
+}
+.pr:hover{
+    color: #218922;
+    
+}
+.in:hover{
+    color: #218922;
+    
+}
+.en:hover{
+    color: #218922;
+    
+}
+.home:hover{
+    color: #218922;
+    
+}
+.addd{
+    margin-left: 30%;
+    width: 90%;
+    margin-top: 5%;
+}
+.add{
+    color: white;
+    position: absolute;
+    margin-left: 63.3%;
+    margin-top: -4%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+    cursor: pointer;
+}
+.cont{
+    margin-left: 20%;
+    width: 90%;
+    margin-top: 5%;
+}
+.con{
+    color: white;
+    position: absolute;
+    margin-left: 63.3%;
+    margin-top: 6%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+    cursor: pointer;
+}
+.email1{
+    margin-left: 37%;
+    width: 90%;
+    margin-top: 5%;
+}
+.email{
+    color: white;
+    position: absolute;
+    margin-left: 62.9%;
+    margin-top: 14%;
+    font-size: larger;
+    font-family: math;
+    width: 22%;
+    cursor: pointer;
+}
+.copy{
+    color: white;
+    position: absolute;
+    margin-left: 2.9%;
+    margin-top: 29%;
+    font-size: medium;
+    font-family: math;
+    width: 24%;
+    cursor: pointer;
+}
+.email1:hover{
+color: #218922;
+}
+.cont:hover{
+    color: #218922;
+}
+.addd:hover{
+    color: #218922;
+}

@@ -1,0 +1,42 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.anv-indus {
+  font-style: normal;
+  color: #000000;
+  font-size: 25px;
+  line-height: 1.1;
+  letter-spacing: 0px;
+  font-weight: bolder;
+  display: flex;
+  flex: auto;
+  margin-left: 1%;
+}
+#logo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.nav-sec {
+  display: contents !important;
+}
+.back-color {
+  background-color: #fffefe;
+  border: 1px solid black;
+}
+.home-part #about {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #40403f;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 14px;
+  line-height: 15px;
+  position: relative;
+  display: block;
+  letter-spacing: 0.56px;
+  padding: 0% 4% !important;
+}
