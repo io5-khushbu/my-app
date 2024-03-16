@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
-import CarIcon from "../../assets/Icons/car-icon.png";
+import Logo from "../../assets/Icons/logo.png";
 import { useNavigate } from "react-router-dom";
 import "./style.css";
 
@@ -16,7 +16,7 @@ const Header = () => {
     <>
       <Navbar expand="lg" className="back-color">
         <Container>
-          <img src={CarIcon} alt="logo" id="logo" />
+          <img src={Logo} alt="logo" id="logo" />
           <Navbar.Brand href="#home" className="font-family anv-indus">
             <strong>
               ANV <br />
@@ -42,13 +42,13 @@ const Header = () => {
                 </NavDropdown>
                 <Nav.Link
                   className="home-part"
-                  onClick={(e) => handleRedirectPage(e, "home")}
+                  onClick={(e) => handleRedirectPage(e, "infrastructre")}
                 >
                   INFRASTRUCTURE
                 </Nav.Link>
                 <Nav.Link
                   className="home-part"
-                  onClick={(e) => handleRedirectPage(e, "home")}
+                  onClick={(e) => handleRedirectPage(e, "product")}
                 >
                   PRODUCT
                 </Nav.Link>

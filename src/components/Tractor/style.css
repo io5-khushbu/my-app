@@ -39,12 +39,11 @@
   padding-top: 4.5%;
   display: flex;
   justify-content: flex-start;
-  width:95%;
+  width: 95%;
 }
 #clients {
   width: 95%;
 }
-
 #learnBtn {
   margin-bottom: 5%;
   width: 70%;
@@ -52,6 +51,7 @@
   border: 1px solid #218823;
   height: 10vh;
   text-transform: uppercase;
+  margin-bottom: 26%;
 }
 #learnBtn:hover {
   background-color: #218823;
