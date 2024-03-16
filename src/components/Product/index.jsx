@@ -51,7 +51,7 @@ const Product = () => {
             <Button
               variant="light"
               id="viewBtn"
-              onClick={(e) => handleRedirectPage(e, "contact")}
+              onClick={(e) => handleRedirectPage(e, "product")}
             >
               View Collection
             </Button>

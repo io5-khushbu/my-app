@@ -1,0 +1,66 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+.infrastructre {
+  width: 100%;
+  height: 250vh;
+  position: relative;
+}
+.firstb {
+  position: absolute;
+
+  height: 250vh;
+  width: 50%;
+}
+.third {
+  width: 90%;
+  height: 50vh;
+  margin-left: 3%;
+  margin-top: 5%;
+}
+.fourthp {
+  margin-left: 3%;
+  margin-right: 2%;
+  margin-top: 12%;
+}
+.first {
+  width: 90%;
+  height: 50vh;
+  margin-left: 3%;
+  margin-top: 12%;
+}
+.secondp {
+  margin-top: 13%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.secondb {
+  position: absolute;
+
+  height: 250vh;
+  width: 50%;
+  margin-left: 50%;
+}
+.thirdp {
+  margin-top: 5%;
+  width: 91%;
+  margin-left: 2%;
+}
+.fourth {
+  margin-top: 16%;
+  height: 40vh;
+  width: 91%;
+}
+.firstp {
+  margin-top: 9%;
+  width: 91%;
+  margin-left: 2%;
+}
+.second {
+  margin-top: 15%;
+  height: 54vh;
+     width: 91%;
+}
